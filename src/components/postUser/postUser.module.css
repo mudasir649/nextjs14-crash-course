@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.texts{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.detailTitle{
+    color: gray;
+    font-weight: bold;
+}
+
+.detailValue{
+    font-weight: 500;
+}
